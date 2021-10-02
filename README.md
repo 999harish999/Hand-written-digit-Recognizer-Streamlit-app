@@ -23,6 +23,8 @@ Handwritten images for training the model was taken from MNIST ("Modified Nation
 #### Approach : 
 Two types of nerural netowrk architechure were used for analysis, Artifical Neural network(ANN) and Convolutional Neural Networks(CNN). 90% of images were used for training and 10% for testing. Both type of models were tunned and best hyperparameters were selected using keras_tunner. Final Validation accuracies for both the models were compared after 20 EPOCHS and was concluded that CNN was performing better. CNN val score =99.991% , ANN val score =98.91%. Final CNN model was trained on entire dataset for 20 EPOCHS. A streamlist app was built around this model and deployed on https://share.streamlit.io/
 
+Approach and Model buling Document is available on ipython notebook 
+
 
 ## Demo
 [![open streamlit app](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/999harish999/hand-written-digits-recognizer/main/streamlit_host.py)
