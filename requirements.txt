@@ -1,4 +1,6 @@
 tensorflow==2.0.0
+tensorflow-estimator==2.0.0
+h5py==2.10.0
 streamlit==0.89.0
 streamlit-drawable-canvas==0.8.0
 numpy==1.21.2
