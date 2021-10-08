@@ -3,8 +3,9 @@
 Streamlit app for recognizing hand written digits using Convoultional Neural Network
 
 [![open streamlit app](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/999harish999/hand-written-digits-recognizer/main/streamlit_host.py)
+## Demo
 
-
+![demo](demo.gif)
 
 ## Project Overview
 
@@ -26,10 +27,7 @@ Two types of nerural netowrk architechure were used for analysis, Artifical Neur
 Approach and Model buling Document is available in [Digit_Recognizer_kaggle.ipynb ipython notebook](Digit_Recognizer_kaggle.ipynb)
 
 
-## Demo
-[![open streamlit app](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/999harish999/hand-written-digits-recognizer/main/streamlit_host.py)
 
-![demo](demo.gif)
 
 ## Compute Configuration 
 App was developed and deployed using bellow configuration 
